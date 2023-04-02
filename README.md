@@ -14,7 +14,7 @@ This is a Python project that scrapes car registration details from the website 
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/your_username/reg-crawler.git
+git clone https://github.com/mcgradyjackjm/reg-crawler.git
 
 2. Install the required modules:
 pip install requests
